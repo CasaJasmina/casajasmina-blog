@@ -85,22 +85,22 @@
 					        <a href="#">About</a>
 					        <ul class="dropdown">
 					          <li>
-					          	<a href="http://casajasmina.arduino.cc/about.html"> The project </a>
+					          	<a href="http://casajasmina.arduino.cc/about"> The project </a>
 					          </li>
 					          <li>
-					          	<a href="http://casajasmina.arduino.cc/team.html"> The team </a>
+					          	<a href="http://casajasmina.arduino.cc/team"> The team </a>
 					          </li>
 					          <li>
-					          	<a href="http://casajasmina.arduino.cc/location.html"> The location </a>
+					          	<a href="http://casajasmina.arduino.cc/location"> The location </a>
 					          </li>
 					        </ul>
 					      </li>
 					      <li>
-					      	<a href="http://casajasmina.arduino.cc/collaborate.html">Collaborate</a>
+					      	<a href="http://casajasmina.arduino.cc/collaborate">Collaborate</a>
 					      </li>
-					      <li>
+					      <!--<li>
 					      	<a href="">Blog</a>
-					      </li>
+					      </li>-->
 
 					    </ul>
 

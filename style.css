@@ -213,6 +213,7 @@ h3.title.hightlighted {
  font-size: 20px;
  line-height: 28px;
  text-transform: uppercase;
+ padding: 0 5px;
 }
 
 .title.hightlighted.superbig strong {

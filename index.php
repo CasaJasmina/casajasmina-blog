@@ -1,11 +1,6 @@
 <?php
 /**
- * The main template file
- *
- * This is the most generic template file in a WordPress theme and one of the
- * two required files for a theme (the other being style.css).
- * It is used to display a page when nothing more specific matches a query.
- * For example, it puts together the home page when no home.php file exists.
+ * The homepage file
  *
  * @package WordPress
  * @subpackage Casa_Jasmina
@@ -22,7 +17,9 @@ get_header(); ?>
         <div class="title hightlighted">
           <strong>
             WHAT IS 
+          </strong>
             <br>
+          <strong>
             CASA JASMINA? 
           </strong>
         </div>
@@ -34,15 +31,13 @@ get_header(); ?>
       </div>
 
 
-
       <div class="large-6 columns">
-
 
         <div class="bubble right">
           Casa Jasmina is a <br>two-year pilot project in the space of domestic electronic networking, or, "the Internet of Things in the Home."
         </br>
         <p class="readmore">
-          <a href="about.html">
+          <a href="about">
             read more >
           </a>
         </p>
@@ -58,8 +53,10 @@ get_header(); ?>
 
       <div class="title hightlighted">
         <strong>
-          OPEN SOURCE  
+          OPEN SOURCE
+        </strong> 
           <br>
+        <strong>
           CONNECTED LIVING <br>
         </strong>
       </div>
@@ -108,7 +105,9 @@ get_header(); ?>
         <div class="title hightlighted">
           <strong>
             EXHIBITION  
+          </strong>
             <br>
+          <strong>
             SPACE <br>
           </strong>
         </div>
@@ -123,8 +122,10 @@ get_header(); ?>
       <div class="square">
         <div class="title hightlighted">
           <strong>
-            GUEST  
+            GUEST
+          </strong>  
             <br>
+          <strong>
             HOUSE  <br>
           </strong>
         </div>
@@ -165,7 +166,7 @@ get_header(); ?>
       <img src="<?php echo get_template_directory_uri(); ?>/images/mail.png" />
       <div class="light-upper"> CONTACT US</div>
       <div class="light"> 
-        <a href="mailto:casajasmina@arduino.cc?Subject=info%20again" target="_top">casajasmina@arduino.cc 
+        <a href="mailto:casajasmina@arduino.cc" target="_top">casajasmina@arduino.cc 
         </a>
       </div>
 
