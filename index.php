@@ -30,7 +30,7 @@ get_header(); ?>
       </div>
 
       <div class="large-6 columns">
-        <img src="img/cObjects.png"/>
+        <img src="<?php echo get_template_directory_uri(); ?>/images/cObjects.png"/>
       </div>
 
 
@@ -67,7 +67,7 @@ get_header(); ?>
     </div>
 
     <div class="large-6 columns" id="components">
-      <img src="img/components.png"/ >
+      <img src="<?php echo get_template_directory_uri(); ?>/images/components.png"/ >
     </div>
 
     <div class="large-6 columns">
@@ -82,7 +82,7 @@ get_header(); ?>
 
   <div class="row box img big">
     <div class="large-12 columns">
-      <img src="img/hack_white_goods.jpg"/  >
+      <img src="<?php echo get_template_directory_uri(); ?>/images/hack_white_goods.jpg"/  >
     </div>
   </div>
 
@@ -149,7 +149,7 @@ get_header(); ?>
 
     <div class="row">
       <div class="large-6 columns ">
-        <img src="img/collaborate.png"/ style="margin-top:30px; margin-bottom:30px;" >
+        <img src="<?php echo get_template_directory_uri(); ?>/images/collaborate.png"/ style="margin-top:30px; margin-bottom:30px;" >
       </div>
       <div class="large-6 columns">
         <div class="bubble right">
@@ -162,7 +162,7 @@ get_header(); ?>
   <div class="row">
     <div class="large-12 small-12 small-centered columns contacts" >
 
-      <img src="img/mail.png" />
+      <img src="<?php echo get_template_directory_uri(); ?>/images/mail.png" />
       <div class="light-upper"> CONTACT US</div>
       <div class="light"> 
         <a href="mailto:casajasmina@arduino.cc?Subject=info%20again" target="_top">casajasmina@arduino.cc 
