@@ -17,8 +17,10 @@ get_header(); ?>
         <div class="title hightlighted">
           <strong>
             WORK 
+          </strong>
             <br>
-            WITH US <br> 
+          <strong>
+            WITH US  
           </strong>
         </div>
       </p>

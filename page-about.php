@@ -17,7 +17,9 @@ get_header(); ?>
         <div class="title hightlighted">
           <strong>
            WHAT IS 
+          </strong>
            <br>
+          <strong>
            CASA JASMINA ? 
          </strong>
        </div>
