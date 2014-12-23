@@ -1,3 +1,14 @@
+<?php
+/**
+ * The location page file
+ *
+ * @package WordPress
+ * @subpackage Casa_Jasmina
+ * @since Casa Jasmina 1.0
+ */
+
+get_header(); ?>
+
 <div id="content" class="page">
 
 		<div class="row">
@@ -37,3 +48,4 @@
 		</div>
 
 	</div>
+<?php get_footer(); ?>
