@@ -52,11 +52,11 @@
 		        </div>
 		      </div>
 
-		      <div class="small-6 large-4 four columns search">
+		      <!--<div class="small-6 large-4 four columns search">
 				<div class="row collapse">
 					<?php echo $DeploySettingsSearchForm; ?>
 				</div>
-			</div>
+			  </div>-->
 
 		    </div>
 
