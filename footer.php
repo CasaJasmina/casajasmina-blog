@@ -12,7 +12,7 @@
 
 		</div><!-- #main -->
 		<footer id="main">  
-			<div class="row">
+			<div class="row margin-bottom">
 			    <div class="large-12 small-6 columns">
 
 			      <div class="row">
@@ -25,13 +25,16 @@
 
 			      <div class="row">
 
-			        <div class="large-3 small-6 columns sponsor-logo">
-			          <a href="http://www.arduino.cc"> <img src="<?php bloginfo('stylesheet_directory'); ?>/images/Arduino_logo.png"></a>
+			        <div class="large-3 columns sponsor-logo">
+			          <a href="http://www.arduino.cc" target="_blank"> <img src="<?php bloginfo('stylesheet_directory'); ?>/images/Arduino_logo.png"></a>
 			        </div>
 
+			        <div class="large-3 columns sponsor-logo">
+			          <a href="http://www.toolboxoffice.it" target="_blank">  <img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo_toolbox.png"></a>
+			        </div> 
 
-			        <div class="large-3 small-6 columns sponsor-logo">
-			          <a href="http://www.toolboxoffice.it">  <img src="<?php bloginfo('stylesheet_directory'); ?>/images/logo_toolbox.png"></a>
+			        <div class="large-12 columns sponsor-logo margin-top">
+			          <a href="http://www.energy-home.it" target="_blank">  <img src="<?php bloginfo('stylesheet_directory'); ?>/images/energy@home_logo.png"></a>
 			        </div> 
 
 			      </div>

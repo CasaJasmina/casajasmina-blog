@@ -1230,6 +1230,14 @@ a.addthis_button_compact,a.addthis_button_email,a.addthis_button_favorites,a.add
   display: none;
 }
 
+.margin-top {
+  margin-top: 2em;
+}
+
+.margin-bottom {
+  margin-bottom: 2em;
+}
+
 @-moz-document url-prefix() {
   .post h3 a, .post h3 a:hover {
     padding-bottom: .5em;
