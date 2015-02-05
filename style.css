@@ -1238,6 +1238,10 @@ a.addthis_button_compact,a.addthis_button_email,a.addthis_button_favorites,a.add
   margin-bottom: 2em;
 }
 
+article {
+  margin-bottom : 4em;
+}
+
 @-moz-document url-prefix() {
   .post h3 a, .post h3 a:hover {
     padding-bottom: .5em;
