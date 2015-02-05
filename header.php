@@ -52,11 +52,11 @@
 		        </div>
 		      </div>
 
-		      <!--<div class="small-6 large-4 four columns search">
+		      <div class="small-6 large-4 four columns search">
 				<div class="row collapse">
 					<?php echo $DeploySettingsSearchForm; ?>
 				</div>
-			  </div>-->
+			  </div>
 
 		    </div>
 
@@ -98,9 +98,9 @@
 					      <li>
 					      	<a href="http://casajasmina.arduino.cc/collaborate">Collaborate</a>
 					      </li>
-					      <!--<li>
-					      	<a href="">Blog</a>
-					      </li>-->
+					      <li>
+					      	<a href="http://casajasmina.arduino.cc/blog">Blog</a>
+					      </li>
 
 					    </ul>
 
